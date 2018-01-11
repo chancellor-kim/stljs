@@ -1,12 +1,12 @@
 {
   "name": "stljs",
-  "version": "0.1.5",
-  "author": "Wil Chung",
+  "version": "0.1.6",
+  "author": "Chancellor Kim",
   "description": "Read, parse, and convert STL files",
   "keywords": ["stl", "3D model", "3D printing", "stereolithography"],
-  "homepage": "http://github.com/cubehero/stljs",
+  "homepage": "https://github.com/chancellor-kim/stljs",
   "bugs": {
-    "url": "http://github.com/cubehero/stljs/issues"
+    "url": "https://github.com/chancellor-kim/stljs/issues"
   },
   "private": false,
   "repository": {
